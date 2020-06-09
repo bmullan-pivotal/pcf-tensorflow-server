@@ -20,6 +20,7 @@ npm run-script build
 
 Push to PCF
 ```
+cd ../..
 cf push -f mf.yml
 ```
 
