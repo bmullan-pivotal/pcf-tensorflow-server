@@ -14,6 +14,7 @@ Web frontend ui built with [create-react-app]
 Build the react front end app
 ```
 cd web/app 
+npm install
 npm run-script build
 ```
 
