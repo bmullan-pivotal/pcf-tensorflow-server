@@ -3,6 +3,7 @@ A sample python tensorflow server on PCF
 
 Train the model, to be saved in the ./model directory
 ```
+mkdir model
 python train.py
 ```
 
